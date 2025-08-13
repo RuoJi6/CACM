@@ -1,4 +1,3 @@
-# :lock:	Come and catch me 
 ### CACM
 
 
@@ -19,15 +18,30 @@
 
 # 项目介绍
 一款Linux权限维持+后渗透的工具，功能：端口扫描，敏感信息，指纹识别，IP伪装，键盘监控，进程隐藏，内容搜索，文件搜索，下载工具，edr/av识别，权限维持，ssh连接伪装等多个功能。
+
+在针对文件操作的时候，操作之前会copy文件的时间戳，操作完成会恢复到修改之前状态。
 ## 演示截图：
 
-<img width="1062" height="400" alt="image" src="https://github.com/user-attachments/assets/ae7843a8-3f1c-4b62-955d-66f67708b729" />
+### 端口扫描
+<img width="1055" height="696" alt="image" src="https://github.com/user-attachments/assets/2c184947-024c-4f71-9960-013216ffeef5" />
 
-<img width="885" height="794" alt="image" src="https://github.com/user-attachments/assets/60e3bb78-5b16-4f6a-beab-5fa8183c2c30" />
+### 端口复用
+<img width="1721" height="936" alt="image" src="https://github.com/user-attachments/assets/2002a51e-ebf6-47c9-90a7-77aec9236907" />
 
-<img width="794" height="921" alt="image" src="https://github.com/user-attachments/assets/7599fdd5-44f3-4fb3-8d0d-aaafe0d0f646" />
+### suid权限维持
+<img width="1701" height="345" alt="image" src="https://github.com/user-attachments/assets/433741ee-45e4-445a-9180-de5ce3533e78" />
 
-<img width="785" height="412" alt="image" src="https://github.com/user-attachments/assets/f772c99a-1145-4449-b170-753e67f274e7" />
+### 覆盖删除遗留文件
+<img width="682" height="270" alt="image" src="https://github.com/user-attachments/assets/c697c4f3-da5d-47ae-87bc-ae80b833a52d" />
+
+### 国内环境下载fscan
+<img width="658" height="355" alt="image" src="https://github.com/user-attachments/assets/d6b66387-8fa5-4d4b-9a32-40643e3b4e2d" />
+
+### ssh权限维持
+<img width="853" height="478" alt="image" src="https://github.com/user-attachments/assets/adbf0c09-20f4-4454-b7f3-b03228261584" />
+
+### 删除历史命令
+<img width="684" height="242" alt="image" src="https://github.com/user-attachments/assets/53c2ffb3-7625-4512-b45f-cd0d47811ec4" />
 
 
 # 内部计划
