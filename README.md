@@ -61,5 +61,5 @@
 
 
 # 交流群
-![image](https://github.com/user-attachments/assets/4cf408f2-596b-447f-bd2e-1f821c5e297b)
+![image](https://github.com/user-attachments/assets/de175fff-6d71-41e2-8b7c-d64d23ea00e7)
 
