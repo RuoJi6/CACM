@@ -21,15 +21,13 @@
 一款Linux权限维持+后渗透的工具，功能：端口扫描，敏感信息，指纹识别，IP伪装，键盘监控，进程隐藏，内容搜索，文件搜索，下载工具，edr/av识别，权限维持，ssh连接伪装等多个功能。
 ## 演示截图：
 
-<img width="1136" height="157" alt="image" src="https://github.com/user-attachments/assets/428f6191-17cc-41ec-a1d8-032f8d1439c8" />
+<img width="1062" height="400" alt="image" src="https://github.com/user-attachments/assets/ae7843a8-3f1c-4b62-955d-66f67708b729" />
 
+<img width="885" height="794" alt="image" src="https://github.com/user-attachments/assets/60e3bb78-5b16-4f6a-beab-5fa8183c2c30" />
 
-![image](https://github.com/user-attachments/assets/dede9aac-dfb6-4a9e-8e13-4a30e38953cd)
+<img width="794" height="921" alt="image" src="https://github.com/user-attachments/assets/7599fdd5-44f3-4fb3-8d0d-aaafe0d0f646" />
 
-![image](https://github.com/user-attachments/assets/423b1b21-ef0f-4ebc-8c6f-76914119b62a)
-
-
-![image](https://github.com/user-attachments/assets/e09d9c9e-f334-4dd9-93d1-ae9cce712d5b)
+<img width="785" height="412" alt="image" src="https://github.com/user-attachments/assets/f772c99a-1145-4449-b170-753e67f274e7" />
 
 
 # 内部计划
