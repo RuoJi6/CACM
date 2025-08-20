@@ -75,9 +75,11 @@
 
 
 
-## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/RuoJi6/HackerPermKeeper.svg)](https://starchart.cc/RuoJi6/HackerPermKeeper)
+# Stargazers over time
+[![Stargazers over time](https://starchart.cc/RuoJi6/CACM.svg?variant=adaptive)](https://starchart.cc/RuoJi6/CACM)
 
 
 # 交流群
-![image](https://github.com/user-attachments/assets/de175fff-6d71-41e2-8b7c-d64d23ea00e7)
+![14725E5D-76B2-43AD-9687-9C0C73732586](https://github.com/user-attachments/assets/0aab08d0-ae68-4e4e-9d06-e8a7129c0172)
+
 
