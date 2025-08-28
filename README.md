@@ -80,6 +80,7 @@
 
 
 # 交流群
-![14725E5D-76B2-43AD-9687-9C0C73732586](https://github.com/user-attachments/assets/0aab08d0-ae68-4e4e-9d06-e8a7129c0172)
+![image](https://github.com/user-attachments/assets/5de3d718-3da7-42ed-a7ea-a8585aa93e74)
+
 
 
