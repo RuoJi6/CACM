@@ -80,7 +80,8 @@
 
 
 # 交流群
-![image](https://github.com/user-attachments/assets/5de3d718-3da7-42ed-a7ea-a8585aa93e74)
+![image](https://github.com/user-attachments/assets/8f126fba-8d01-4352-9429-f8bb2ee93480)
+
 
 
 
