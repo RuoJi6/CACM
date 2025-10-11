@@ -1,4 +1,3 @@
-### CACM
 
 
 <br/>
@@ -17,13 +16,17 @@
 [中文手册](https://github.com/RuoJi6/CACM/wiki/CACM-%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) ｜ [English manual](https://github.com/RuoJi6/CACM/wiki/CACM-Tool-Usage-Guide)
 
 # 项目介绍
-一款Linux权限维持+后渗透的工具，功能：端口扫描，敏感信息，指纹识别，IP伪装，键盘监控，进程隐藏，内容搜索，文件搜索，下载工具，edr/av识别，权限维持，ssh连接伪装等多个功能。
+一款Linux权限维持+后渗透的工具，功能：端口扫描，敏感信息，指纹识别，IP伪装，键盘监控，进程隐藏，内容搜索，文件搜索，下载工具，edr/av识别，权限维持，docker敏感信息扫描，ssh连接伪装等多个功能。
 
 在针对文件操作的时候，操作之前会copy文件的时间戳，操作完成会恢复到修改之前状态。
 ## 演示截图：
 
 ### 端口扫描
-<img width="1055" height="696" alt="image" src="https://github.com/user-attachments/assets/2c184947-024c-4f71-9960-013216ffeef5" />
+<img width="3134" height="970" alt="image" src="https://github.com/user-attachments/assets/8bec3eac-e819-44d4-81aa-cf6d2f9f9853" />
+
+### docker敏感信息
+<img width="1974" height="1960" alt="image" src="https://github.com/user-attachments/assets/c52ce60d-68b0-4ddf-9ef4-68b316f2a9ff" />
+
 
 ### 端口复用
 <img width="1721" height="936" alt="image" src="https://github.com/user-attachments/assets/2002a51e-ebf6-47c9-90a7-77aec9236907" />
